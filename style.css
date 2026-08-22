@@ -1,0 +1,60 @@
+h1{
+	color: red;text-align: center;
+
+}
+p{	background-color: #f2c4c7;
+  	
+}
+body{
+	background-image: url(https://pngmagic.com/webp_images/light-blue-website-background-image.webp);
+}
+.content{
+	display: flex;
+	align-items: start;
+	gap: 20px}
+.image{
+	width: 200px;
+	height: 200px;
+}
+pre{
+	background-color: #f2c4c7;
+	width: 300px;
+}
+#container{
+	max-width: 500px;
+	margin: auto;
+}
+#from-container{
+	width: 100%;
+	background-color: white;
+	padding: 20px;
+	margin-top: 100px;
+}
+.form-group{
+	margin: 20px;
+}
+input{
+	width: 100%;
+	margin-top: 10px;
+	height: 40px;
+}
+input[type=submit]{
+	background-color: black;
+	border: none;
+	height: 50px;
+	color: white;
+}
+input:focus{
+	background-color: #eee;
+}
+
+
+
+
+
+
+
+
+
+
+
